@@ -7,7 +7,6 @@ import 'package:youtube_ecommerce/firebase_helper/firebase_options/firebase_opti
 import 'package:youtube_ecommerce/provider/app_provider.dart';
 import 'package:youtube_ecommerce/screens/auth_ui/welcome/welcome.dart';
 import 'package:youtube_ecommerce/screens/custom_bottom_bar/custom_bottom_bar.dart';
-import 'package:youtube_ecommerce/screens/home/home.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
