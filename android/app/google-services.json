@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070100870368",
+    "project_id": "e-commerce-0660",
+    "storage_bucket": "e-commerce-0660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070100870368:android:6a91c7fe0993e57466cc85",
+        "android_client_info": {
+          "package_name": "com.example.youtube_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx8LL1sq0upA5NjkalbVcUQjbjfDUZKjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
